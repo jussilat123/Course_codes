@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/main.qml</file>
+        <file>QML/visualisationView/FMIDataSeriesSettings.qml</file>
+        <file>QML/visualisationView/DataSeriesSettings.qml</file>
+        <file>QML/visualisationView/VisualisationView.qml</file>
+        <file>QML/visualisationView/FingridDataSeriesSettings.qml</file>
+        <file>QML/visualisationView/LocalDataSeriesSettings.qml</file>
+        <file>QML/Notification.qml</file>
+        <file>QML/DateTimePicker.qml</file>
+        <file>QML/TextInputBox.qml</file>
+        <file>utils.js</file>
+        <file>QML/ElectricityView.qml</file>
+        <file>QML/WeatherView.qml</file>
+    </qresource>
+</RCC>
